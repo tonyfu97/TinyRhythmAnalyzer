@@ -36,7 +36,7 @@ This project is a conceptual tool intended for educational and research purposes
 
 ## Tutorial
 
-I have recorded a video tutorial for this project:
+I have recorded a video tutorial for this project: [link](https://youtu.be/6e7RCKRy9gg)
 
 [![TinyRhythmAnalyzer Tutorial](https://img.youtube.com/vi/6e7RCKRy9gg/0.jpg)](https://youtu.be/6e7RCKRy9gg)
 
